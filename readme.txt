@@ -4,3 +4,4 @@ Git has amutable index called stage.
 Git tracks change.
 Git tracks changes of files.
 Creating a new branch is quick and simple.
+Continue.
